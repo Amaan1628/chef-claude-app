@@ -6,3 +6,4 @@ export default function Header() {
         </header>
     )
 }
+// put this at the end
